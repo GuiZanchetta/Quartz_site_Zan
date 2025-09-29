@@ -1,0 +1,9 @@
+---
+title: About Me
+---
+# Guilherme Zanchetta
+is a Brazilian researcher, sound artist, and interactive systems developer working at the intersection of music, movement, and technology. He holds an MA in Music (UNICAMP, 2024) with a focus on sound and computation, completed alongside a research internship at IRCAM (Paris). He is currently a Research Fellow at LUME Teatro (UNICAMP) and a collaborator with IPEM–Ghent University within the FAPESP–FWO project “Singing in Between the Cracks: Intracultural Dialogues of Sounding Practices in Virtual Environments (Cantando F(r)estas),” which investigates XR/AI-mediated living archives for intangible heritage. Zanchetta worked as a research assistant in the Cyber-Physical Systems Division at CTI Renato Archer (2024–2025) and is an invited/visiting researcher at NICS/UNICAMP (2025–). His dance-technology work includes projects at SESC and the Choreographic Coding Lab (Motion Bank), and more recently an in-progress residency at the Robotics, Automation, and Dance Lab, supported by the U.S. National Science Foundation (NSF).
+
+His work has been presented at the International Conference on Computational Creativity (São Paulo), the Journées d’Informatique Musicale (Paris), the Generative Art Conference (Rome), and FILE – Electronic Language International Festival (São Paulo). He has taught as a teaching assistant at UNICAMP in electrical engineering and computer music. In parallel, he is developing the voice-driven game _O Segundo Dia_ and has appeared as a keynote speaker at Brazil Game Show. He serves on the Special Commission of Computer Music (CECM) of the Brazilian Computer Society (SBC), contributing to the organization of the Brazilian Symposium on Computer Music.
+
+![[Imagem do WhatsApp de 2025-09-29 à(s) 18.55.37_164e771b.jpg]]
