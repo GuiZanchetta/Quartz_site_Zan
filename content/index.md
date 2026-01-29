@@ -8,7 +8,7 @@ Current work focuses on intangible heritage through emerging technologies. He is
 ---------
 		
 	
-	 - Currently an artist-in-residence at the Robotics, Automation and Dance Lab (https://the-rad-lab.org/)
+	- Currently an artist-in-residence at the Robotics, Automation and Dance Lab (https://the-rad-lab.org/)
 	
 	
 	 
