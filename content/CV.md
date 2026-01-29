@@ -6,7 +6,7 @@ tags:
 # Guilherme Zanchetta
 
 **Researcher, computer musician, and interactive systems developer**  
-Campinas, Brazil · [zanchetta@nics.unicamp.br](mailto:zanchetta@nics.unicamp.br)  
+Campinas, Brazil · zanchettta(at)nics.unicamp.br
 [Google Scholar](https://scholar.google.com.br/citations?user=NJKad1YAAAAJ) · [Lattes](http://lattes.cnpq.br/0453149874992573)  
 
 ---
