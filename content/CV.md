@@ -13,7 +13,7 @@ Campinas, Brazil · zanchettta(at)nics.unicamp.br
 
 ## Current positions
 
-- ****Research Fellow (TT-4, FAPESP–FWO)** — _LUME Teatro (UNICAMP)_ with **IPEM – Ghent University** (2025– ) 
+- **Research Fellow (TT-4, FAPESP–FWO)** — _LUME Teatro (UNICAMP)_ with **IPEM – Ghent University** (2025– ) 
 
 	- _Project:_ _Singing in between the cracks / Cantando F(r)estas_ — XR/AI-mediated living archives for intangible heritage.  
 	
