@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/CV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "CV"
             }
           }
         ]
@@ -185,16 +185,42 @@
   },
   "active": "e58599bbabdf6e8d",
   "lastOpenFiles": [
-    "content/fotos-e-vida/index.md",
-    "content/fotos-e-vida/2026-04-05-começo.md",
-    "content/fotos-e-vida/2026-04-05-foto-exemplo.md",
-    "content/fotos-e-vida/2026-04-05-foto-exemplo.md.tmp.5072.1775405774194",
-    "content/fotos-e-vida/2026-04-05-recomendação-exemplo.md",
-    "content/fotos-e-vida/2026-04-05-recomendação-exemplo.md.tmp.5072.1775405770090",
-    "content/fotos-e-vida/2026-04-05-começo.md.tmp.5072.1775405763958",
-    "content/fotos-e-vida/_template.md",
-    "content/fotos-e-vida/_template.md.tmp.5072.1775405754436",
-    "content/fotos-e-vida/index.md.tmp.5072.1775405744617",
-    "content/fotos-e-vida"
+    "node_modules/micromark-util-resolve-all/readme.md",
+    "node_modules/micromark-util-resolve-all/package.json",
+    "node_modules/micromark-util-resolve-all/index.js",
+    "node_modules/micromark-util-resolve-all/index.d.ts",
+    "node_modules/micromark-util-resolve-all",
+    "node_modules/vfile/lib/minurl.js",
+    "node_modules/micromark-extension-gfm-tagfilter/lib/index.js",
+    "node_modules/micromark-extension-gfm-tagfilter/lib/index.d.ts",
+    "node_modules/micromark-extension-gfm-tagfilter/readme.md",
+    "node_modules/micromark-extension-gfm-tagfilter/package.json",
+    "node_modules/micromark-extension-gfm-tagfilter/license",
+    "node_modules/micromark-extension-gfm-tagfilter/lib",
+    "node_modules/micromark-extension-gfm-task-list-item/readme.md",
+    "node_modules/micromark-factory-space/readme.md",
+    "node_modules/yargs-parser/CHANGELOG.md",
+    "node_modules/postcss-value-parser/README.md",
+    "node_modules/oniguruma-to-es/README.md",
+    "node_modules/micromark-util-chunked/readme.md",
+    "node_modules/micromark-util-classify-character/readme.md",
+    "node_modules/micromark-util-types/readme.md",
+    "node_modules/readdirp/README.md",
+    "node_modules/micromark-util-html-tag-name/readme.md",
+    "node_modules/micromark-util-encode/readme.md",
+    "node_modules/micromatch/README.md",
+    "node_modules/range-parser/README.md",
+    "node_modules/range-parser/HISTORY.md",
+    "node_modules/unified/readme.md",
+    "node_modules/pako/README.md",
+    "node_modules/pako/CHANGELOG.md",
+    "node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "node_modules/micromorph/README.md",
+    "node_modules/mime-db/README.md",
+    "node_modules/mime-db/HISTORY.md",
+    "node_modules/mime-types/README.md",
+    "node_modules/mime-types/HISTORY.md",
+    "node_modules/moo/README.md",
+    "content/Imagem do WhatsApp de 2025-09-29 à(s) 18.55.37_164e771b.jpg"
   ]
 }

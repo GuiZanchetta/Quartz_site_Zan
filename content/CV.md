@@ -45,7 +45,7 @@ Campinas, Brazil · zanchettta(at)nics.unicamp.br
 
 ## Education
 
-- **MA in Music (Sound, Music and Computer Music Studies)** — UNICAMP, 2024  
+- **MA in Music Technology (Sound, Music and Computer Music Studies)** — UNICAMP, 2024  
     _Dissertation:_ Enxame – Archival Sound Art_ (NICS/UNICAMP).  
     Supervisor: Stephan Schaub. 
     Research internship at **IRCAM–ISMM**.  
@@ -62,7 +62,7 @@ Campinas, Brazil · zanchettta(at)nics.unicamp.br
 - **Real-Time Audio Signal Processing in Faust** — Kadenze/Stanford Online — _completed_  
     Functional audio stream language; effects/synths; exportable DSP engines.
     
-- **IRCAM Winter School — Intensive course** — 35 hours
+- **Markus Noisternig Spatial Audio Winter School — Intensive course** — 35 hours
     Modules on ambisonics/spatialization and networked audio. _(Participant; also supported session setup with Markus Noisternig.)
 
 ---
