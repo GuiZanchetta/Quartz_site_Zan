@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/My Blog/_template.md",
+                "file": "content/Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_template"
+              "title": "Projects"
             }
           }
         ]
@@ -185,18 +185,18 @@
   },
   "active": "e58599bbabdf6e8d",
   "lastOpenFiles": [
-    "content/My Blog/2026-04-05-começo.md",
-    "content/My Blog/2026-04-05-foto-exemplo.md",
-    "content/My Blog/index.md",
     "content/Work.md",
-    "content/Projects.md",
+    "content/index.md",
     "content/Portfólio Zanchetta.pdf",
+    "content/Projects.md",
+    "content/My Blog/_template.md",
+    "content/My Blog/index.md",
+    "content/My Blog/2026-04-05-foto-exemplo.md",
+    "content/My Blog/2026-04-05-começo.md",
+    "content/My Blog",
     "content/modelos/New_page.md",
     "content/modelos",
-    "content/index.md",
     "content/Imagem do WhatsApp de 2025-09-29 à(s) 18.55.37_164e771b.jpg",
-    "content/My Blog/_template.md",
-    "content/My Blog",
     "content/CV.md",
     "content",
     "content/Projects.md.tmp.5097.1775660280635",
