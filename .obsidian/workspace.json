@@ -11,12 +11,14 @@
             "id": "e58599bbabdf6e8d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/Imagem do WhatsApp de 2025-09-29 à(s) 18.55.37_164e771b.jpg"
+                "file": "content/My Blog/_template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Imagem do WhatsApp de 2025-09-29 à(s) 18.55.37_164e771b"
+              "icon": "lucide-file",
+              "title": "_template"
             }
           }
         ]
@@ -183,22 +185,22 @@
   },
   "active": "e58599bbabdf6e8d",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/Portfólio Zanchetta.pdf",
+    "content/My Blog/2026-04-05-começo.md",
+    "content/My Blog/2026-04-05-foto-exemplo.md",
+    "content/My Blog/index.md",
     "content/Work.md",
     "content/Projects.md",
-    "content/Projects.md.tmp.5097.1775660280635",
-    "content/fotos-e-vida/2026-04-05-foto-exemplo.md",
-    "content/fotos-e-vida/2026-04-05-começo.md",
-    "content/fotos-e-vida/index.md",
-    "content/fotos-e-vida/2026-04-05-recomendação-exemplo.md",
-    "content/fotos-e-vida/_template.md",
+    "content/Portfólio Zanchetta.pdf",
     "content/modelos/New_page.md",
     "content/modelos",
+    "content/index.md",
     "content/Imagem do WhatsApp de 2025-09-29 à(s) 18.55.37_164e771b.jpg",
-    "content/fotos-e-vida",
+    "content/My Blog/_template.md",
+    "content/My Blog",
     "content/CV.md",
     "content",
+    "content/Projects.md.tmp.5097.1775660280635",
+    "content/fotos-e-vida/2026-04-05-recomendação-exemplo.md",
     "node_modules/yoga-layout/src/generated/YGEnums.ts",
     "node_modules/yoga-layout/src/generated",
     "node_modules/yargs/build/lib/typings/yargs-parser-types.js",
