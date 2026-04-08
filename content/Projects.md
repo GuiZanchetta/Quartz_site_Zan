@@ -31,6 +31,7 @@ A living map of what's keeping me busy  artistic collaborations, research, writi
 ## 📝 writing & research
 
 **Variável** — Article and dossier on the trajectory  of Artemis Moroni works of art at the intersection with technology. Two parts: conceptual introduction + works dossier.
+
 **NICS / UNICAMP** — Research at the Núcleo Interdisciplinar de Comunicação Sonora. Active sub-projects include Projeto P, Estúdio do NICS, and a Whisper study. With Stephan Schaub.
 
 **SBCM** — Ongoing research involvement.
@@ -41,7 +42,7 @@ A living map of what's keeping me busy  artistic collaborations, research, writi
 
 
 
-** MAX** — Continued exploration of Max/MSP.
+**MAX** — Continued exploration of Max/MSP.
 
 **Grupo de Estudos — Mário de Andrade** — Reading and discussion group.
 
